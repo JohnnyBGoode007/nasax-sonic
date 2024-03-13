@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "NASA-X: Sonifications Project",
+    "slug": "snack-0beee299-2da2-40ba-afb7-c5181115da8b",
+    "version": "0.1.",
+    "orientation": "portrait",
+    "icon": "./assets/nasax.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/nasax_logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000",
+      "color": "black",
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "000000",
+        "color": "black",
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
